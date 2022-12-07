@@ -1,5 +1,5 @@
 outs:
-- md5: 3a9fc28d696803e0e038ebc737f82e17.dir
-  size: 7002268
-  nfiles: 250
+- md5: e7f721b417e1251eec3a9bad801a22ea.dir
+  size: 6966921
+  nfiles: 130
   path: coco128
